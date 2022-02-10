@@ -1,0 +1,19 @@
+
+
+.div {
+    background-color: #a0a0a0 !important;
+}
+
+.navbar {
+    background-color: rgb(216, 216, 245);
+    color: white !important;
+    font-size: 18px;
+    font-weight: bold ;
+}
+.logo {
+    width: 30px;
+}
+
+#top_player img {
+    width: 50px;
+}
